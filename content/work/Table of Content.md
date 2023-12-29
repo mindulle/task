@@ -1,0 +1,4 @@
+[[Applications]]
+[[Commands]]
+[[Inbox]]
+[[Resources]]
