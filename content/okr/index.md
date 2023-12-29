@@ -1,16 +1,24 @@
 # Latest
 ## Annual
-![](2023.excalidraw.dark.png)
-%%[🖋 Edit in Excalidraw](2023.excalidraw.md), and the [light exported image](2023.excalidraw.light.png)%%
-## Quarts
+![[assets/images/2023.excalidraw.dark.png]]
+
+
+
+## Quarters
 ### Q1
-![](Q1.excalidraw.dark.svg)
-%%[🖋 Edit in Excalidraw](Q1.excalidraw.md), and the [light exported image](Q1.excalidraw.light.svg)%%
+![[assets/images/Q1.excalidraw.dark.png]]
+
+
+
+
 
 ### Q3
-![](Q3.dark.svg)
-%%[🖋 Edit in Excalidraw](Q3.excalidraw), and the [light exported image](Q3.light.svg)%%
+![[assets/images/Q3.excalidraw.dark.png]]
 
 ### Q4
-![](Q4.dark.svg)
-%%[🖋 Edit in Excalidraw](Q4.md), and the [light exported image](Q4.light.svg)%%
+![[assets/images/Q4.dark.png]]
+
+
+
+
+
