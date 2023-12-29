@@ -6,6 +6,7 @@ export default {
     config.infrastructureLogging = {
       level: "error",
     };
+
     return config;
   },
 };
